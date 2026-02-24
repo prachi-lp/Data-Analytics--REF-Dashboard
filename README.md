@@ -1,6 +1,6 @@
  # Research Excellence Framework (REF) Performance Dashboard – Tableau Project 
- 
-    The Research Excellence Framework (REF) Performance Dashboard is an interactive data visualization project developed using Tableau. It analyzes institutional        research performance using key metrics such as FTE Category A staff submissions, assessment units, performance percentages, and institutional rankings.
+   
+ The Research Excellence Framework (REF) Performance Dashboard is an interactive data visualization project developed using Tableau. It analyzes institutional        research performance using key metrics such as FTE Category A staff submissions, assessment units, performance percentages, and institutional rankings.
 
 ## Project objective 
 - To analyze FTE Category A staff submissions across institutions
@@ -41,7 +41,7 @@
 
 
   ## Dashboard Interaction
-  -  <a herf="https://github.com/prachi-lp/Data-Analytics-REF-Dashboard/blob/main/research%20framework%20dashboard.pdf"> View Dashboard</a>
+   <a herf="https://github.com/prachi-lp/Data-Analytics-REF-Dashboard/blob/main/research%20framework%20dashboard.pdf"> View Dashboard</a>
 
   ## Conclusion
   This dashboard effectively visualizes research performance metrics and enables institutional comparison through interactive analytics. It demonstrates strong        skills in data preparation, calculated field creation, KPI development, and dashboard design in Tableau.
