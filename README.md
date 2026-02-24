@@ -20,8 +20,6 @@ The Research Excellence Framework (REF) Performance Dashboard is an interactive 
 ## Dataset used
 <a herf="https://github.com/prachi-lp/Data-Analytics-REF-Dashboard/blob/main/REF%20dashboard%20history.xlsx"> Dataset</a>
 
--Dashboard Interaction  <a herf="https://github.com/prachi-lp/Data-Analytics-REF-Dashboard/blob/main/research%20framework%20dashboard.pdf"> View Dashboard</a>
-
   ## Questions (KPIs)
 - What is the total number of FTE Category A staff submitted across institutions?
 - What is the overall aggregated performance percentage?
@@ -40,6 +38,8 @@ The Research Excellence Framework (REF) Performance Dashboard is an interactive 
 - Institutions with higher FTE submissions often show stronger performance outcomes.
 - Institutional rankings vary across panels.
 - Performance distribution highlights dominant research categories.
+
+  - Dashboard Interaction <a herf="https://github.com/prachi-lp/Data-Analytics-REF-Dashboard/blob/main/research%20framework%20dashboard.pdf"> View Dashboard</a>
 
   ## Conclusion
 This dashboard effectively visualizes research performance metrics and enables institutional comparison through interactive analytics. It demonstrates strong skills in data preparation, calculated field creation, KPI development, and dashboard design in Tableau.
